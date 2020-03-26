@@ -1,4 +1,4 @@
-#Estatística Computacional
+# Estatística Computacional
 
 ## ***Array Inicial: [-1, -8,-20, -12, 0, 5, 7, 14, 25]***
 
